@@ -1,0 +1,11 @@
+apps/dokploy/__test__/preview-deployment/template.test.ts
+  c7e8974ed498a7da 1-51,53-56,61-65,70-80
+packages/server/src/services/preview-deployment.ts
+  c7e8974ed498a7da 129-153,158,161-168,171-177,184-185,190-197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "bbb1b0bb7dd5012e5e9aad3022119a1978441b50",
+  "prompts": {}
+}
