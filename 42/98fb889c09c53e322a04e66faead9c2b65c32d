@@ -1,0 +1,19 @@
+apps/dokploy/server/server.ts
+  s_4a2f2570be84bd::t_b722d58cad54c0 40-41
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "4298fb889c09c53e322a04e66faead9c2b65c32d",
+  "prompts": {},
+  "sessions": {
+    "s_4a2f2570be84bd": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "90058038-fc0d-4d95-9547-78700d42c1be",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Thomas Camlong <thomas@ajnart.fr>"
+    }
+  }
+}
