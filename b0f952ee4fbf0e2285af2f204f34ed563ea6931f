@@ -1,0 +1,22 @@
+packages/server/src/services/preview-deployment.ts
+  c7e8974ed498a7da 129-153,158,161-168,171-177,184-185,187-194
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "b0f952ee4fbf0e2285af2f204f34ed563ea6931f",
+  "prompts": {
+    "c7e8974ed498a7da": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ab2263f7-1287-4bb7-af2a-4d217ca32c49",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Thomas Camlong",
+      "total_additions": 259,
+      "total_deletions": 81,
+      "accepted_lines": 51,
+      "overriden_lines": 0
+    }
+  }
+}
