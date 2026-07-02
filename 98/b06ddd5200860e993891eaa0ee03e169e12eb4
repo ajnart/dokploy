@@ -1,0 +1,19 @@
+packages/server/src/services/preview-deployment.ts
+  s_79e610747429df::t_a26891f3fde56e 166
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.9",
+  "base_commit_sha": "98b06ddd5200860e993891eaa0ee03e169e12eb4",
+  "prompts": {},
+  "sessions": {
+    "s_79e610747429df": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0dce45bb1ffe6jRQrGvG6Hwc3C",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Thomas Camlong <thomas@ajnart.fr>"
+    }
+  }
+}
