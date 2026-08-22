@@ -1,0 +1,24 @@
+apps/dokploy/components/dashboard/application/preview-deployments/show-preview-settings.tsx
+  c7e8974ed498a7da 3,106-107,109-129
+apps/dokploy/__test__/preview-deployment/template.test.ts
+  c7e8974ed498a7da 1-51,56-59,64-68,73-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.10",
+  "base_commit_sha": "5c2dce231fe958cc2f21acf917cc3d5a9f3274fc",
+  "prompts": {
+    "c7e8974ed498a7da": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "ab2263f7-1287-4bb7-af2a-4d217ca32c49",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Thomas Camlong",
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 95,
+      "overriden_lines": 0
+    }
+  }
+}

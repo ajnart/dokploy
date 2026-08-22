@@ -1,0 +1,44 @@
+LICENSE.MD
+  s_4a2f2570be84bd::t_0532eef54fe8ba 3
+apps/dokploy/__test__/git-provider/git-provider-access.test.ts
+  s_4a2f2570be84bd::t_0532eef54fe8ba 105,166
+apps/dokploy/server/api/routers/user.ts
+  s_4a2f2570be84bd::t_0532eef54fe8ba 366,369
+apps/dokploy/components/dashboard/settings/users/add-permissions.tsx
+  s_4a2f2570be84bd::t_0532eef54fe8ba 203,207,889,951
+apps/dokploy/utils/hooks/use-whitelabeling.ts
+  s_4a2f2570be84bd::t_0532eef54fe8ba 1-2,5,9
+apps/dokploy/pages/index.tsx
+  s_4a2f2570be84bd::t_0532eef54fe8ba 54,221,236
+apps/dokploy/components/layouts/side.tsx
+  s_4a2f2570be84bd::t_0532eef54fe8ba 436
+packages/server/src/services/permission.ts
+  s_4a2f2570be84bd::t_0532eef54fe8ba 46-47
+packages/server/src/services/git-provider.ts
+  s_4a2f2570be84bd::t_0532eef54fe8ba 104
+apps/dokploy/server/api/utils/audit.ts
+  s_4a2f2570be84bd::t_0532eef54fe8ba 1-2
+apps/dokploy/pages/register.tsx
+  s_4a2f2570be84bd::t_0532eef54fe8ba 124
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "523d8c1bfc1a8a4382bb62ea86ecec3a3b5792e3",
+  "prompts": {},
+  "humans": {
+    "h_d6e478ca18e517": {
+      "author": "Thomas Camlong <thomas@ajnart.fr>"
+    }
+  },
+  "sessions": {
+    "s_4a2f2570be84bd": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "90058038-fc0d-4d95-9547-78700d42c1be",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Thomas Camlong <thomas@ajnart.fr>"
+    }
+  }
+}
