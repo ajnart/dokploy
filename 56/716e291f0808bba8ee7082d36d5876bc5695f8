@@ -1,0 +1,34 @@
+packages/server/src/types/change-request.ts
+  s_7a324375d08be3::t_42ebdc0cd230b2 1-9
+apps/dokploy/components/dashboard/compose/preview-deployments/show-preview-deployments.tsx
+  s_7a324375d08be3::t_87bb02d35aa2a1 88
+packages/server/src/utils/providers/gitlab.ts
+  s_7a324375d08be3::t_471fe6fec6c38d 9
+  s_7a324375d08be3::t_22d310e8f68e17 273-282,288,295,318-319,338
+packages/server/src/utils/providers/github.ts
+  s_7a324375d08be3::t_a502be50233ce0 8
+  s_7a324375d08be3::t_6c13f303198f56 272,300-303
+apps/dokploy/components/dashboard/application/preview-deployments/show-preview-deployments.tsx
+  s_7a324375d08be3::t_a5000492b51f05 90
+apps/dokploy/components/dashboard/application/preview-deployments/build-preview-deployment.tsx
+  s_7a324375d08be3::t_6db42d64980a3c 3,27,30,32-38,41-43,46,51,53-57,59-60,101-103,105-109,111,120-121,126,141-145,147,167,180,190,197,203-207,215,249
+  s_7a324375d08be3::t_22d4ccd01ff061 31
+  s_7a324375d08be3::t_dacf68cbc58851 65-67,71-75,82-85,89-94
+  s_7a324375d08be3::t_4d6fa25c53f17e 98
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.23",
+  "base_commit_sha": "56716e291f0808bba8ee7082d36d5876bc5695f8",
+  "prompts": {},
+  "sessions": {
+    "s_7a324375d08be3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fd4eadc4dffeqFpJS5K7PAqaCk",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Thomas Camlong <thomas@ajnart.fr>"
+    }
+  }
+}
